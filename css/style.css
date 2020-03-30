@@ -1,0 +1,30 @@
+body{
+		background-color: #EAF6F6;
+		text-align: center;
+}	
+		
+#header{
+	background-color: #03a9f447;
+	padding: 34px;
+	height: 34px;
+	margin: 2px 2px;
+}
+
+hr{
+		border-style: dotted none none;
+		width: 8%;
+		border-width: 5px;
+		border-color: grey;
+}
+
+ul{
+		list-style-type: none;
+		padding: 0px;
+}
+h1{
+		color: #66BFBF;
+}
+
+h3{
+		color: #66BFBF;
+}
